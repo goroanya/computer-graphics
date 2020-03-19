@@ -5,4 +5,4 @@
 
 ## Результат роботи програми
 
-![lab2 result gif(result.gif)
+![lab2 result gif](result.gif)
